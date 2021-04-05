@@ -34,7 +34,7 @@ $ python responder.py \
 \
 After that enter the file name where you have stored all your URLs
 
-` `
+
 * `Windows` 
 
 1. Download and Extract the zip. 
