@@ -8,7 +8,8 @@ So you'll never have to worry about checking a bunch of URLs manually...
 
 
 1. NOTE: Remember to put the extension i.e. ".txt" at the end of file name 
-2. NOTE: The target list on which you are going to test should be in the same path/directory as your program file
+2. NOTE: The target list on which you are going to test should be in the same path/directory as your program file \
+3. For demo purposes I've added a file named "demo.txt". You may use it to check the working of the script if you want in case.
 
 # Tested on:
 * Kali Linux
