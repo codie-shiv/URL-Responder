@@ -1,12 +1,19 @@
-#!/bin/bash
+#!/bin/python3
 try:
     import requests
     from time import sleep
-    import os.path
+    import os
     import sys
 except ImportError:
-   exit("install requests/dependencies and try again ...")
+    try:
+         os.system("pip install requests")
+         print("Rerun the script")
+    except: 
+         exit("install requests/dependencies and try again ...")
 
+
+
+os.system(clear)
 banner = """
   _   _   _   _   _   _   _   _   _   _   _   _   _  
  / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ 
